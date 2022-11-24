@@ -28,3 +28,5 @@ elif p == 5 :
 elif p == 6 :
     jumlah = y ** z
     print("hasil dari ",y," dipangkatkan dengan ",z," adalah",jumlah)
+else p == :
+    print("ga dong")
